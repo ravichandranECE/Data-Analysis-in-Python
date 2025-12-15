@@ -14,8 +14,8 @@ The various features of the cleaned dataset are explained below:
 
 
 #### The bar plot reveals how individual airlines contribute to the overall price distribution.
-#### Highest Median Price: 
-#### Jet Airways Business has a median price ($\sim 55,000$) significantly higher than the overall dataset maximum 75th percentile ($12,373$). 
+Highest Median Price: 
+Jet Airways Business has a median price ($\sim 55,000$) significantly higher than the overall dataset maximum 75th percentile ($12,373$). 
 #### This category contains the most expensive tickets, driving the overall 'Max' price of $79,512$.
 #### Mid-Range Carriers (Median $\sim 10,000$ to $12,000$):
 #### Air India, Jet Airways (Economy/General), Multiple carriers, Vistara, Vistara Premium economy, and Multiple carriers Premium economy all fall into this tier. Their median prices are close to the overall 75th percentile ($12,373$), indicating they represent the more expensive $25\%$ of typical bookings.
